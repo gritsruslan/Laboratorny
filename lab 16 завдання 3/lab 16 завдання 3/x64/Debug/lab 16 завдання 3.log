@@ -1,0 +1,9 @@
+﻿  lab 16 завдання 3.cpp
+C:\Users\gritc\source\repos\lab 16 завдання 3\lab 16 завдання 3\lab 16 завдання 3.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "lab 16 завдання 3.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab 16 завдання 3.cpp")
+  
+C:\Users\gritc\source\repos\lab 16 завдання 3\lab 16 завдання 3\lab 16 завдання 3.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
